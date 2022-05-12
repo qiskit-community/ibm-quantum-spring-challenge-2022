@@ -19,9 +19,9 @@ In [this tutorial](https://qiskit.org/textbook/ch-applications/vqe-molecules.htm
 
 ## Helpful Papers
 
-**[General Information](https://www.nature.com/articles/s41534-022-00528-0)
-[Anderson Localization](https://physicstoday.scitation.org/doi/10.1063/1.3206091?feed=most-cited)
-[Many-body localization](https://arxiv.org/abs/1804.11065)**
+**[General Information](https://www.nature.com/articles/s41534-022-00528-0)**
+**[Anderson Localization](https://physicstoday.scitation.org/doi/10.1063/1.3206091?feed=most-cited)**
+**[Many-body localization](https://arxiv.org/abs/1804.11065)**
 
 
 ## IBM Quantum Account
