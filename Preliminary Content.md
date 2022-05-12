@@ -13,7 +13,7 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
 
-## VQE
+## Variational Quantum Eigensolver (VQE)
 
 In [this tutorial](https://qiskit.org/textbook/ch-applications/vqe-molecules.html), we introduce the Variational Quantum Eigensolver (VQE), motivate its use, explain the necessary theory, and demonstrate its implementation in finding the ground state energy of molecules.
 
