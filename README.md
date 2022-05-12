@@ -12,13 +12,10 @@ The challenge is exactly that: challenging. While challenge one could be solved 
 
 To recognize your achievement, those who complete all the exercises will receive a digital achievement badge to showcase the skills you've developed throughout the challenge.
 
-Think you're up for the task?
-
-**[Register here](https://challenges.quantum-computing.ibm.com/spring-2022)**
+Think you're up for the task? **[Register here](https://challenges.quantum-computing.ibm.com/spring-2022)**
 
 ## Stay Connected 
 Make sure to join the dedicated Slack channel [#spring-challenge-2022](https://qiskit.slack.com/archives/C03BRNA9UQY) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already.
-
 <br><br>
 # [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Code%20of%20Conduct.md#code-of-conduct-for-participation)
 
