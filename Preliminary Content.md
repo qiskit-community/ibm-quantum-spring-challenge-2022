@@ -4,7 +4,7 @@ In preparation for the challenge, you should make yourself familiar with the fou
 
 ## Linear Algebra
 
-Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the IBM Quantum Challenge Fall 2021. Here are  the resource that can help you learn or brush-up on the foundations of linear algebra and matrices.
+Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the IBM Quantum Spring Challenge 2022. Here are  the resource that can help you learn or brush-up on the foundations of linear algebra and matrices.
 
 
 - [Qiskit Textbook: Linear Algebra Chapter](https://qiskit.org/textbook/ch-appendix/linear_algebra.html)
@@ -12,6 +12,17 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 ## Python Crash Course
 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
+
+## VQE
+
+In [this tutorial](https://qiskit.org/textbook/ch-applications/vqe-molecules.html), we introduce the Variational Quantum Eigensolver (VQE), motivate its use, explain the necessary theory, and demonstrate its implementation in finding the ground state energy of molecules.
+
+## Helpful Papers
+
+**[General Information](https://www.nature.com/articles/s41534-022-00528-0)
+[Anderson Localization](https://physicstoday.scitation.org/doi/10.1063/1.3206091?feed=most-cited)
+[Many-body localization](https://arxiv.org/abs/1804.11065)**
+
 
 ## IBM Quantum Account
 
