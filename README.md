@@ -8,8 +8,6 @@ When Richard Feynman proposed quantum computing 41 years ago, he imagined device
 
 The IBM Quantum Spring Challenge runs from **Monday, May 23 at 9AM EDT until Friday, May 27 at 5PM EDT**, and will be divided into two segments. One part will invite participants to tackle problems revolving around many-body systems, while the other will focus on fermionic chemistry simulations. Participants will get a one-of-a-kind opportunity to investigate problems at the forefront of quantum computing research.
 
-The challenge is exactly that: challenging. While challenge one could be solved by a beginner, the final task will make even a seasoned quantum veteran scratch their head.
-
 To recognize your achievement, those who complete all the exercises will receive a digital achievement badge to showcase the skills you've developed throughout the challenge.
 
 Think you're up for the task? **[Register here](https://challenges.quantum-computing.ibm.com/spring-2022)**
