@@ -15,14 +15,11 @@ To recognize your achievement, those who complete all the exercises will receive
 Think you're up for the task?
 
 **[Register here](https://challenges.quantum-computing.ibm.com/spring-2022)**
- 
 
 <br><br>
 # [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Code%20of%20Conduct.md#code-of-conduct-for-participation)
 
-# [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Preliminary%20Content.md)
+# [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Preliminary%20Content.md)<-- update for spring
 
 # [FAQ](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/wiki)<-- update for spring
-
-# [FAQ Wiki](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/wiki)<-- update for spring
 
