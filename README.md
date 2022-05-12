@@ -19,5 +19,5 @@ Make sure to join the dedicated Slack channel [#spring-challenge-2022](https://q
 
 # [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Preliminary%20Content.md)
 
-# [FAQ](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/wiki)<-- update for spring
+<!-- # [FAQ](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/wiki)<-- update for spring -->
 
